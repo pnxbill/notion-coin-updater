@@ -3,6 +3,9 @@
 ## Description
 This implementation is a bot that will run periodically getting the list of coins inside a Notion table and updating their prices automatically by using the Binance API.
 
+## Requirements
+- Node.js: ^12.22.7
+
 ## How to use
 - Clone the repository
 - Install the dependencies using yarn or npm (npm install)
